@@ -60,12 +60,6 @@
     "version": "3.1.0.0"
   },
   {
-    "author": "ChJees",
-    "name": "Androids for RW 1.5",
-    "steamId": "2889326293",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "lagking, Meltup and Sicarious",
     "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
@@ -82,12 +76,6 @@
     "name": "[AV] Mechanoid orbital traders",
     "steamId": "3172198798",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Peptide",
-    "name": "Androids Expanded for RW 1.5",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mouse",
@@ -178,12 +166,6 @@
     "name": "Restock Notification[1.5]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Xercaine",
-    "name": "Androids Expanded: Overhaul",
-    "steamId": "3367031702",
-    "version": "1.0.0.0"
   },
   {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
@@ -498,12 +480,6 @@
     "version": null
   },
   {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Darkborderman",
     "name": "More Genes",
     "steamId": null,
@@ -638,12 +614,6 @@
   {
     "author": "Mlie",
     "name": "Apparel Organizer (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LTS",
-    "name": "Integrated Implants",
     "steamId": null,
     "version": null
   },
@@ -1320,6 +1290,12 @@
     "version": "1.5.3.1"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
     "author": "Sandy",
     "name": "RPG Style Inventory",
     "steamId": "1561221991",
@@ -1372,11 +1348,5 @@
     "name": "Almostthere1.5",
     "steamId": "3232229153",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Ed86",
-    "name": "RimJobWorld",
-    "steamId": "",
-    "version": "5.5.0"
   }
 ]
